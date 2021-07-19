@@ -1,2 +1,2 @@
 # WebXR
-Created my first Web r in Three,.js
+Created my first WebXr in Three.js
